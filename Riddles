@@ -1,13 +1,52 @@
 [
     {
-        "question": "What has keys but can't open locks?",
-        "answer": "A piano",
-        "hint": "The answer starts with 'p' and ends with 'o'."
+        "question": "What can travel around the world while staying in the same corner?",
+        "answer": "A stamp",
+        "hint": "The answer starts with 's' and ends with 'p'."
     },
     {
-        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
-        "answer": "An echo",
-        "hint": "The answer starts with 'e' and ends with 'o'."
+        "question": "What gets wetter as it dries?",
+        "answer": "A towel",
+        "hint": "It’s something you use after a shower."
+    },
+    {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "answer": "The letter 'm'",
+        "hint": "Think alphabetically."
+    },
+    {
+        "question": "What has a head, a tail, is brown, and has no legs?",
+        "answer": "A penny",
+        "hint": "It’s money-related."
+    },
+    {
+        "question": "What is full of holes but still holds water?",
+        "answer": "A sponge",
+        "hint": "It’s often used in cleaning."
+    },
+    {
+        "question": "What has hands but can’t clap?",
+        "answer": "A clock",
+        "hint": "It’s something you check to tell time."
+    },
+    {
+        "question": "What can fill a room but takes up no space?",
+        "answer": "Light",
+        "hint": "It helps you see."
+    },
+    {
+        "question": "What is easy to lift but hard to throw?",
+        "answer": "A feather",
+        "hint": "It’s very light and often used in pillows."
+    },
+    {
+        "question": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+        "answer": "A candle",
+        "hint": "I melt over time."
+    },
+    {
+        "question": "What has legs but doesn’t walk?",
+        "answer": "A table",
+        "hint": "It holds your food."
     }
-    // Add more riddles here (e.g., your 70 riddles, including 50 romance/love-themed ones)
 ]
